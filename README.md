@@ -16,6 +16,7 @@
 此外还提供了中英对照表以方便大家使用：![image](https://github.com/JunHuaBai96/Potential-Generator/assets/102909786/48aef8f5-3941-4ed4-bc53-547e4be24d87)
 
 ##引用文献:
+
 [1] Misfit-energy-increasing dislocations in vapor-deposited CoFe/NiFe multilayers
 
 [2] Defect accumulation and evolution in refractory multi-principal element alloys
