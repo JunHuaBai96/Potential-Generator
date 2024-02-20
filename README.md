@@ -1,7 +1,7 @@
 # Potential-Generator
 基于Zhou的最全的合金势函数生成器GUI版本
 
-##在做合金的动力学模拟的时候, 大家经常遇到的一个问题就是合金的势函数不好找, 但是幸好Zhou大佬在2004年的一篇PRB中给出了高达16种元素之间相互作用的势函数生成方法以及Fortran代码[1], 之后香港城市大学的赵士俊[2]老师以及一篇08年的PRB[3]中分别给出了V和Cr的相关参数, 使得这个势函数中元素种类增加到了18种.
+## 在做合金的动力学模拟的时候, 大家经常遇到的一个问题就是合金的势函数不好找, 但是幸好Zhou大佬在2004年的一篇PRB中给出了高达16种元素之间相互作用的势函数生成方法以及Fortran代码[1], 之后香港城市大学的赵士俊[2]老师以及一篇08年的PRB[3]中分别给出了V和Cr的相关参数, 使得这个势函数中元素种类增加到了18种.
 
 为了方便大家的势函数使用, 我利用python中的TKinter库将Zhou老师的相关工作整合进了一个软件并且有GUI界面. 该软件提供了最多六种金属元素之间的eam/alloy势函数文件的拟合:
 
@@ -22,7 +22,7 @@
 此外还提供了中英对照表以方便大家使用：
 ![image](https://github.com/JunHuaBai96/Potential-Generator/assets/102909786/48aef8f5-3941-4ed4-bc53-547e4be24d87)
 
-##引用文献:
+## 引用文献:
 
 [1] Misfit-energy-increasing dislocations in vapor-deposited CoFe/NiFe multilayers
 
