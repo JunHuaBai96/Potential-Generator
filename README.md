@@ -17,5 +17,7 @@
 
 ##引用文献:
 [1] Misfit-energy-increasing dislocations in vapor-deposited CoFe/NiFe multilayers
+
 [2] Defect accumulation and evolution in refractory multi-principal element alloys
+
 [3] Computational study of the generation of crystal defects in a bcc metal target irradiated by short laser pulses  
